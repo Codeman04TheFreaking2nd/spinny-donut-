@@ -1,2 +1,4 @@
-# spinny-donut-
+# spinny-donut
 funny
+
+A side project
